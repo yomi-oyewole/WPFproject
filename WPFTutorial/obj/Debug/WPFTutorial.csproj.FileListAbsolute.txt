@@ -1,0 +1,15 @@
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\bin\Debug\WPFTutorial.exe.config
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\bin\Debug\WPFTutorial.exe
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\bin\Debug\WPFTutorial.pdb
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.csprojResolveAssemblyReference.cache
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\MainWindow.g.cs
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\App.g.cs
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial_MarkupCompile.cache
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial_MarkupCompile.lref
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\MainWindow.baml
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.g.resources
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.Properties.Resources.resources
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.csproj.GenerateResource.Cache
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.csproj.CoreCompileInputs.cache
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.exe
+c:\users\benjamin\source\repos\WPFTutorial\WPFTutorial\obj\Debug\WPFTutorial.pdb
